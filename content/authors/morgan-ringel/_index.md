@@ -19,8 +19,10 @@ role: PhD Candidate at Vanderbilt University
 # Interests to show in About widget
 interests:
   - Image guided surgery
-  - Soft tissue biomechanical modeling
-  - Medical image registration
+  - Computational modeling
+  - Elastography imaging
+  - Nonlinear optimization
+  - Computer graphics in medicine
 
 # Education to show in About widget
 education:
@@ -28,7 +30,7 @@ education:
     - course: PhD Candidate in Biomedical Engineering
       institution: Vanderbilt University
       year: 2019-Present
-    - course: BSc in Biomedical and Electrical/Computer Engineering
+    - course: BSE in Biomedical and Electrical/Computer Engineering
       institution: Duke University
       year: 2018
 
@@ -39,19 +41,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: mailto:morgan.j.ringel@Vanderbilt.edu
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=7PjIIEwAAAAJ&hl=en&oi=ao
+  #- icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/morgan-ringel-1a9641a4/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -67,4 +69,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I am currently a 4th year Ph.D. Candidate in Biomedical Engineering at Vanderbilt University.
+Hi! I am currently a 4th year Ph.D. Candidate in Biomedical Engineering at Vanderbilt University. I am advised by Dr. Michael Miga in the Biomedical Modeling Laboratory which is affiliated with the Vanderbilt Institute for Surgery and Engineering (VISE). My research is focused on developing a computer-assisted surgery system for breast conserving surgery.
+
+I am honored to be supported by the NSF Graduate Research Fellowship Program.
+
