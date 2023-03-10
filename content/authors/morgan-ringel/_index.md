@@ -22,7 +22,7 @@ interests:
   - Computational modeling
   - Elastography imaging
   - Nonlinear optimization
-  - Computer graphics in medicine
+  - Medical image registration
 
 # Education to show in About widget
 education:
@@ -69,7 +69,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I am currently a 4th year Ph.D. Candidate in Biomedical Engineering at Vanderbilt University. I am advised by Dr. Michael Miga in the Biomedical Modeling Laboratory which is affiliated with the Vanderbilt Institute for Surgery and Engineering (VISE). My research is focused on developing a computer-assisted surgery system for breast conserving surgery.
+Hi! I am currently a 4th year graduate student and Ph.D. Candidate in the Biomedical Engineering Department at Vanderbilt University. I am advised by Dr. Michael Miga in the [Biomedical Modeling Laboratory](http://bmlweb.vuse.vanderbilt.edu/) which is affiliated with the Vanderbilt Institute for Surgery and Engineering ([VISE](https://www.vanderbilt.edu/vise/)). My research is focused on developing a computer-assisted surgery system for breast conserving surgery.
 
 I am honored to be supported by the NSF Graduate Research Fellowship Program.
 
