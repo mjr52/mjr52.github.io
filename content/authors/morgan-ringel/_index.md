@@ -69,7 +69,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I am currently a 4th year graduate student and Ph.D. Candidate in the Biomedical Engineering Department at Vanderbilt University. I am advised by Dr. Michael Miga in the [Biomedical Modeling Laboratory](http://bmlweb.vuse.vanderbilt.edu/) which is affiliated with the Vanderbilt Institute for Surgery and Engineering ([VISE](https://www.vanderbilt.edu/vise/)). My research is focused on developing a computer-assisted surgery system for breast conserving surgery.
+Hi! I am currently a 4th year graduate student and Ph.D. Candidate in the Biomedical Engineering Department at Vanderbilt University. I am advised by Dr. Michael Miga in the [Biomedical Modeling Laboratory](https://migalab.org/) which is affiliated with the Vanderbilt Institute for Surgery and Engineering ([VISE](https://www.vanderbilt.edu/vise/)). My research is focused on developing a computer-assisted surgery system for breast conserving surgery.
 
 I am honored to be supported by the NSF Graduate Research Fellowship Program.
 
